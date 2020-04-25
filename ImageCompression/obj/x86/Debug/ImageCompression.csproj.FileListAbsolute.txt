@@ -1,0 +1,7 @@
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageCompression\ImageCompression\bin\Debug\ImageCompression.exe
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageCompression\ImageCompression\bin\Debug\ImageCompression.pdb
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageCompression\ImageCompression\obj\x86\Debug\ImageCompression.Form1.resources
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageCompression\ImageCompression\obj\x86\Debug\ImageCompression.Properties.Resources.resources
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageCompression\ImageCompression\obj\x86\Debug\ImageCompression.csproj.GenerateResource.Cache
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageCompression\ImageCompression\obj\x86\Debug\ImageCompression.exe
+C:\Users\Kushan Ravindu\Documents\IUP MID Kushan\ImageCompression\ImageCompression\obj\x86\Debug\ImageCompression.pdb
